@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "145a924e-a764-d3c2-aad5-4f9820d598db",
+  "instructors": {
+    "content": [
+      "5ab6df7b-d206-0a13-142a-9b0e47fa4936"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a466b4fe-dbd0-094a-fe2c-936efd12fbb5",
+    "website": "14-20-industrial-organization-and-public-policy-spring-2003"
+  },
+  "course_title": "Industrial Organization and Public Policy",
+  "course_description": "This is a course in industrial organization, the study of firms in markets. Industrial organization focuses on firm behavior in imperfectly competitive markets, which appear to be far more common than the perfectly competitive markets that were the focus of your basic microeconomics course. This field analyzes the acquisition and use of market power by firms, strategic interactions among firms, and the role of government competition policy. We will approach this subject from both theoretical and applied perspectives.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.20",
+  "course_image_thumbnail": {
+    "content": "6558629e-b7f5-b128-52a3-b92db332f6c9",
+    "website": "14-20-industrial-organization-and-public-policy-spring-2003"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "6f230e92-4779-4ac6-8155-46b640101fce",
+  "site_short_id": "14.20-spring-2003",
+  "site_url_path": "courses/14-20-industrial-organization-and-public-policy-spring-2003",
+  "title": "Course Metadata"
+}
