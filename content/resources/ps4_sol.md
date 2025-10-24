@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/3e956350b977c7f1a0d07eb4fdb0d831_ps4_sol.pdf
 file_size: 152895
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
